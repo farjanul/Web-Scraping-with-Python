@@ -1,7 +1,7 @@
 # Web Scraping with Python (Completed)
 
 A beginner's tutorial to scraping websites using Python's [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) library. This repository is the source code for the tutorial found here: 
-https://www.djuices.com/web-scraping-with-python
+https://www.farjanul.com/web-scraping-with-python
 
 ## Installation
 
